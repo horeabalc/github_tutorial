@@ -2,3 +2,4 @@ Some new .txt files saved in the directory
 changed
 IDK what to change
 emergency fix
+I made a change to commit first to local then to GitHub repository
